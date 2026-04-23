@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# data import artifacts
+/scripts/data/pdfs/
+/scripts/data/questions.json
